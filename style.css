@@ -1,3 +1,13 @@
 body {
     background-color: beige;
 }
+
+h1 {
+    color: cornflowerblue;
+}
+.font {
+    font-family: 'Courier New', Courier, monospace;
+}
+.clicked {
+    color: tomato;
+}
